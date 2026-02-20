@@ -9,16 +9,16 @@ This project helps automate the loan approval process and supports data-driven d
 
 # Features
 
-Predicts loan approval status
-Data preprocessing and cleaning
-Machine learning model training
+Predicts loan approval status,
+Data preprocessing and cleaning,
+Machine learning model training,
 Accuracy evaluation
 
 # Technologies Used
 
-Python
-NumPy
-Pandas
-Matplotlib / Seaborn
-Scikit-learn
-Jupyter Notebook
+Python,
+NumPy,
+Pandas,
+Matplotlib / Seaborn,
+Scikit-learn,
+Jupyter Notebook.
